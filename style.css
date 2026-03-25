@@ -70,3 +70,6 @@ footer { background-color: #222; color: #fff; text-align: center; padding: 1.5re
   min-width: 200px;
   text-align: center;
 }
+html {
+  font-size: clamp(16px, 2.5vw, 18px);
+}
