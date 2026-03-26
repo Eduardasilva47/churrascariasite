@@ -122,3 +122,26 @@ h1 {
     padding: 15px;
   }
 }
+@media (max-width: 600px) {
+
+  body {
+    font-size: 18px; /* aumenta base */
+  }
+
+  h1 {
+    font-size: 2.2rem;
+  }
+
+  h2 {
+    font-size: 1.6rem;
+  }
+
+  h3 {
+    font-size: 1.3rem;
+  }
+
+  p {
+    font-size: 1.15rem;
+  }
+
+}
